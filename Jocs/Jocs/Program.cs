@@ -26,10 +26,20 @@ namespace Jocs
         static public void Buscaminas()
         {
             Console.WriteLine("BUSCAMINAS");
+            Console.WriteLine("CONFLICTYE");
+            Console.WriteLine("CONFLICTYE");
+            Console.WriteLine("CONFLICTYE");
+            Console.WriteLine("CONFLICTYE");
         }
         static public void Tetris()
         {
             Console.WriteLine("Tetris");
+            Console.WriteLine("CONFLICTYE");
+            Console.WriteLine("CONFLICTYE");
+            Console.WriteLine("CONFLICTYE");
+            Console.WriteLine("CONFLICTYE");
+            Console.WriteLine("CONFLICTYE");
+
         }
 
     }
