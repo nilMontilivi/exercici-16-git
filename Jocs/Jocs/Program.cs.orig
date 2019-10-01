@@ -26,15 +26,28 @@ namespace Jocs
         static public void Buscaminas()
         {
             Console.WriteLine("BUSCAMINAS");
+<<<<<<< HEAD
             Console.WriteLine("Creem un conflicte per molestar");
 	    Console.WriteLine("Afegeixo coses que es mouen per la pantalla buaaaah impresionant2")
-
+=======
+            Console.WriteLine("CONFLICTYE");
+            Console.WriteLine("CONFLICTYE");
+            Console.WriteLine("CONFLICTYE");
+            Console.WriteLine("CONFLICTYE");
+>>>>>>> Tetris
         }
         static public void Tetris()
         {
             Console.WriteLine("Tetris");
+<<<<<<< HEAD
             Console.WriteLine("Resulta que li afegim coses al tetris perque no ens denuncin per haver fet una copia tant dolenta");
-
+=======
+            Console.WriteLine("CONFLICTYE");
+            Console.WriteLine("CONFLICTYE");
+            Console.WriteLine("CONFLICTYE");
+            Console.WriteLine("CONFLICTYE");
+            Console.WriteLine("CONFLICTYE");
+>>>>>>> Tetris
 
         }
 
