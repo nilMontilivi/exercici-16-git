@@ -26,6 +26,7 @@ namespace Jocs
         static public void Buscaminas()
         {
             Console.WriteLine("BUSCAMINAS");
+	    Console.WriteLine("Afegeixo coses que es mouen per la pantalla buaaaah impresionant2")
         }
         
     }
