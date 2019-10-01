@@ -19,7 +19,7 @@ namespace Jocs
                 "2- tetris\n" +
                 "3- Cubos\n" +
                 "4- Sortir");
-
+		//poso un comentari pk ho diu l'anunciat
 
             }
         }
