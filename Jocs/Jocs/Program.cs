@@ -27,6 +27,10 @@ namespace Jocs
         {
             Console.WriteLine("BUSCAMINAS");
         }
-        
+        static public void Tetris()
+        {
+            Console.WriteLine("Tetris");
+        }
+
     }
 }
